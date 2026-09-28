@@ -42,18 +42,10 @@ A feature-rich, high-performance 2D fighting game and sandbox platform built ent
 
 1. Clone this repository: 
 
-bash
-
 git clone https://github.com/maximum131114/neon-clash.git
-
-
 
 2. Navigate into the folder and launch a local web server (such as VS Code's *Live Server* or python's http.server): 
 
-bash
-
 python3 -m http.server 8080
-
-
 
 3. Open http://localhost:8080 in your web browser.
