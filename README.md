@@ -46,12 +46,14 @@ bash
 
 git clone https://github.com/maximum131114/neon-clash.git
 
-Use code with caution.
+
+
 2. Navigate into the folder and launch a local web server (such as VS Code's *Live Server* or python's http.server): 
 
 bash
 
 python3 -m http.server 8080
 
-Use code with caution.
+
+
 3. Open http://localhost:8080 in your web browser.
